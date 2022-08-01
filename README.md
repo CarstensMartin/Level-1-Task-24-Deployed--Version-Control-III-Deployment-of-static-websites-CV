@@ -1,6 +1,10 @@
 # Level 1 Task 24 Deployed -Version Control III: Deployment of static websites (CV)
 
-## Task 2
+## Deployed
+
+https://carstensmartin.github.io/Level-1-Task-24-Deployed--Version-Control-III-Deployment-of-static-websites-CV/
+
+## Task (Part 2)
 
 In this task, you are going to be creating a personal webpage. Make sure that this webpage acts as a resume and introduces you to the world effectively. Strike a balance in your content — this webpage should show more of your personality than a typical CV but it should still be professional.
 
@@ -24,6 +28,6 @@ Follow these steps:
 
 ● Use CSS to style and position the elements on your webpage as attractively as possible. Feel free to use style libraries like Bootstrap.
 
-● Create a new repository for this task called MyCV.
+● Create a new repository for this task.
 
 ● Deploy your webpage using GitHub Pages.
